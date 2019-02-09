@@ -1,0 +1,27 @@
+{
+  "name": "ExpressApp",
+  "version": "0.1.0",
+  "description": "Testing out deploying a Node Express server with Zeit Now",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulshryock/ExpressApp.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Paul Shryock",
+    "email": "paul@pshry.com",
+    "url": "https://pshry.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulshryock/ExpressApp/issues"
+  },
+  "homepage": "https://github.com/paulshryock/ExpressApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
